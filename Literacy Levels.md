@@ -1,4 +1,4 @@
-# Analysis of the General Literancy of SEAL Members
+# Analysis of the General Literacy of SEAL Members
 
 Hey all,
 
