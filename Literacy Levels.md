@@ -1,4 +1,6 @@
 # Analysis of the General Literacy of SEAL Members
+*by Will A.K.A. Toshino Kyouko !!
+
 
 Hey all,
 
