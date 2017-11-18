@@ -1,0 +1,426 @@
+# DerpyDots
+
+*Note GitHub breaks display of some emoji*
+
+## Overview:
+
+**Total messages processed:** 4357
+
+Emoji Categories | Stats
+-------|--------
+Unicode in body | 149
+Custom in Body | 331
+**Total body** | 480
+Unicode react | 97
+Custom react | 189
+**Total react** | 338
+**Total** | 818
+
+### Top 5 Body:
+
+Emoji | Count
+-------|--------
+:blobzip: | 45
+:clapping_hands: | 39
+:blobwavereverse: | 35
+:blobwave: | 34
+:uncle: | 24
+
+### Top 5 React:
+
+Emoji | Count
+-------|--------
+:monkas: | 63
+💬 | 29
+:uncle: | 13
+:yea: | 9
+:kingderp: | 8
+
+### Top 5 Total:
+
+Emoji | Count
+-------|--------
+:monkas: | 83
+:blobzip: | 46
+:clapping_hands: | 39
+:uncle: | 37
+:blobwavereverse: | 35
+
+## All Data:
+
+### All Body Emoji:
+
+Emoji | Count
+-------|--------
+:blobzip: | 45
+:clapping_hands: | 39
+:blobwavereverse: | 35
+:blobwave: | 34
+:uncle: | 24
+:dubious: | 21
+:monkas: | 20
+:frowning_face_with_open_mouth: | 14
+:lewd: | 11
+:puke: | 9
+:ok_hand: | 8
+:bloblul: | 8
+:yesping: | 7
+:eyes: | 7
+:blobthinkingfast: | 7
+:breading: | 6
+:notlikeblob: | 6
+:blobthinkingdown: | 5
+:blobnauseated: | 5
+:feelsblobman: | 5
+:blobsad: | 5
+:waving_hand: | 4
+:eggplant: | 4
+:red_heart: | 3
+:snowflake: | 3
+:folded_hands: | 3
+:thinking_face: | 3
+:thumbs_up: | 3
+:potgchamp: | 3
+:peach: | 3
+:octopus: | 3
+:blobaww: | 3
+:blobcry: | 3
+:blobdrool: | 3
+:thinkraging: | 3
+:pikablob: | 3
+:blobcoffee: | 2
+:elephant: | 2
+:strongthink: | 2
+:face_screaming_in_fear: | 2
+:bslul: | 2
+:yea: | 2
+:blobhug: | 2
+:blobthumbsup: | 2
+:blobpray: | 2
+:blobderpy: | 2
+:blobupsidedown: | 2
+:tiiiiilting: | 2
+:middle_finger: | 2
+:blobokhand: | 2
+:seel: | 2
+:dark_skin_tone: | 1
+:worried_face: | 1
+:blobhearteyes: | 1
+:smiling_face_with_smiling_eyes: | 1
+:fingerguns: | 1
+:smiling_face_with_sunglasses: | 1
+:cow_face: | 1
+:open_book: | 1
+:question_mark: | 1
+:popcorn: | 1
+:litter_in_bin_sign: | 1
+:face_with_open_mouth: | 1
+:spoon: | 1
+:crocodile: | 1
+:smackdrafts: | 1
+:noping: | 1
+:weary_cat_face: | 1
+:drowstrats: | 1
+:top_hat: | 1
+:ghost: | 1
+:tongue: | 1
+:money-mouth_face: | 1
+:chicken: | 1
+:sailboat: | 1
+:snake: | 1
+:left-facing_fist: | 1
+:chequered_flag: | 1
+:jebrusalem: | 1
+:disappointed_but_relieved_face: | 1
+:bus: | 1
+:face_with_tears_of_joy: | 1
+:zipper-mouth_face: | 1
+:persevering_face: | 1
+:blobpopcorn: | 1
+:pizza: | 1
+:nauseated_face: | 1
+:venoblob: | 1
+:sheaf_of_rice: | 1
+:victory_hand: | 1
+:pistol: | 1
+:blobhyperthink: | 1
+:blobthinking: | 1
+:raising_hands: | 1
+:blobrofl: | 1
+:treebeard: | 1
+:sqtlthinking: | 1
+:rareegg: | 1
+:peace_symbol: | 1
+:blobthinkingeyes: | 1
+:blobsleeping: | 1
+:feelswowman: | 1
+:blobyum: | 1
+:thunkong: | 1
+:blobnervous: | 1
+:thonk: | 1
+:cow: | 1
+:orange_book: | 1
+:ub3rb0t: | 1
+:no_one_under_eighteen: | 1
+:new_moon_face: | 1
+:blobpeek: | 1
+:blobfearful: | 1
+:blobdancer: | 1
+:blobsmilehappyeyes: | 1
+:derpnoot: | 1
+:thonkang: | 1
+:comcast: | 1
+:blobhyperthinkfast: | 1
+:bridge_at_night: | 1
+:old_man: | 1
+:blobeyes: | 1
+:blobzippermouth: | 1
+:blobglare: | 1
+:blobsweats: | 1
+:slightly_frowning_face: | 1
+:crown: | 1
+:fish: | 1
+:evergreen_tree: | 1
+:bread: | 1
+:watermelon: | 1
+:spheal: | 1
+:blobkiss: | 1
+
+### All React Emoji:
+
+Emoji | Count
+-------|--------
+:monkas: | 63
+💬 | 29
+:uncle: | 13
+:yea: | 9
+:kingderp: | 8
+:wtf: | 7
+🍆 | 7
+:potatocarry: | 6
+🇷 | 6
+🇺 | 6
+🇮 | 6
+🇳 | 6
+🇪 | 6
+🇩 | 6
+🇮🇱 | 6
+:blobpeek: | 6
+:blobhearteyes: | 6
+:blobaww: | 5
+:smackdrafts: | 4
+:blobfire2: | 4
+:blobfire: | 4
+💇🏾 | 4
+🐙 | 4
+:retweet: | 4
+:bolb: | 4
+😎 | 3
+:supershooter: | 3
+:wut: | 3
+:breading: | 3
+😡 | 3
+:blobthonking: | 3
+❄ | 3
+:blobthonkang: | 3
+:blobdrool: | 3
+:nay: | 2
+:goob: | 2
+:jebbaited: | 2
+:pudgeface: | 2
+:strongthink: | 2
+👻 | 2
+:lewd: | 2
+:blobblush: | 2
+:hachink: | 2
+:yespingpls: | 1
+:blobzip: | 1
+:jeb: | 1
+:holla: | 1
+:rtzw: | 1
+:msagnnerk: | 1
+:antibork: | 1
+:jebgasm: | 1
+:potgchamp: | 1
+:blobthinkingeyes: | 1
+:svee: | 1
+:blobhyperthink: | 1
+
+### Total Emoji:
+
+Emoji | Count
+-------|--------
+:monkas: | 83
+:blobzip: | 46
+:clapping_hands: | 39
+:uncle: | 37
+:blobwavereverse: | 35
+:blobwave: | 34
+💬 | 29
+:dubious: | 21
+:frowning_face_with_open_mouth: | 14
+:lewd: | 13
+:yea: | 11
+:breading: | 9
+:puke: | 9
+:ok_hand: | 8
+:bloblul: | 8
+:blobaww: | 8
+:kingderp: | 8
+:yesping: | 7
+:blobhearteyes: | 7
+:eyes: | 7
+:wtf: | 7
+🍆 | 7
+:blobthinkingfast: | 7
+:blobpeek: | 7
+:potatocarry: | 6
+🇷 | 6
+🇺 | 6
+🇮 | 6
+🇳 | 6
+🇪 | 6
+🇩 | 6
+:notlikeblob: | 6
+🇮🇱 | 6
+:blobdrool: | 6
+:blobthinkingdown: | 5
+:smackdrafts: | 5
+:blobnauseated: | 5
+:feelsblobman: | 5
+:blobsad: | 5
+:strongthink: | 4
+:potgchamp: | 4
+:blobfire2: | 4
+:blobfire: | 4
+:waving_hand: | 4
+💇🏾 | 4
+:eggplant: | 4
+🐙 | 4
+:retweet: | 4
+:bolb: | 4
+:red_heart: | 3
+:snowflake: | 3
+:folded_hands: | 3
+😎 | 3
+:supershooter: | 3
+:wut: | 3
+:thinking_face: | 3
+:thumbs_up: | 3
+😡 | 3
+:peach: | 3
+:octopus: | 3
+:blobcry: | 3
+:blobthonking: | 3
+:thinkraging: | 3
+❄ | 3
+:blobthonkang: | 3
+:pikablob: | 3
+:blobcoffee: | 2
+:elephant: | 2
+:nay: | 2
+:goob: | 2
+:jebbaited: | 2
+:pudgeface: | 2
+👻 | 2
+:face_screaming_in_fear: | 2
+:bslul: | 2
+:blobhyperthink: | 2
+:blobhug: | 2
+:blobthinkingeyes: | 2
+:blobthumbsup: | 2
+:blobpray: | 2
+:blobderpy: | 2
+:blobblush: | 2
+:blobupsidedown: | 2
+:tiiiiilting: | 2
+:middle_finger: | 2
+:blobokhand: | 2
+:seel: | 2
+:hachink: | 2
+:yespingpls: | 1
+:dark_skin_tone: | 1
+:worried_face: | 1
+:smiling_face_with_smiling_eyes: | 1
+:fingerguns: | 1
+:jeb: | 1
+:holla: | 1
+:rtzw: | 1
+:msagnnerk: | 1
+:antibork: | 1
+:smiling_face_with_sunglasses: | 1
+:jebgasm: | 1
+:cow_face: | 1
+:open_book: | 1
+:question_mark: | 1
+:popcorn: | 1
+:litter_in_bin_sign: | 1
+:face_with_open_mouth: | 1
+:spoon: | 1
+:crocodile: | 1
+:noping: | 1
+:weary_cat_face: | 1
+:drowstrats: | 1
+:top_hat: | 1
+:ghost: | 1
+:tongue: | 1
+:money-mouth_face: | 1
+:chicken: | 1
+:sailboat: | 1
+:snake: | 1
+:left-facing_fist: | 1
+:chequered_flag: | 1
+:jebrusalem: | 1
+:disappointed_but_relieved_face: | 1
+:bus: | 1
+:face_with_tears_of_joy: | 1
+:zipper-mouth_face: | 1
+:persevering_face: | 1
+:blobpopcorn: | 1
+:pizza: | 1
+:nauseated_face: | 1
+:venoblob: | 1
+:sheaf_of_rice: | 1
+:victory_hand: | 1
+:pistol: | 1
+:blobthinking: | 1
+:raising_hands: | 1
+:blobrofl: | 1
+:treebeard: | 1
+:sqtlthinking: | 1
+:rareegg: | 1
+:peace_symbol: | 1
+:blobsleeping: | 1
+:feelswowman: | 1
+:blobyum: | 1
+:thunkong: | 1
+:blobnervous: | 1
+:thonk: | 1
+:cow: | 1
+:orange_book: | 1
+:ub3rb0t: | 1
+:no_one_under_eighteen: | 1
+:new_moon_face: | 1
+:blobfearful: | 1
+:blobdancer: | 1
+:blobsmilehappyeyes: | 1
+:derpnoot: | 1
+:thonkang: | 1
+:comcast: | 1
+:blobhyperthinkfast: | 1
+:bridge_at_night: | 1
+:old_man: | 1
+:blobeyes: | 1
+:blobzippermouth: | 1
+:blobglare: | 1
+:blobsweats: | 1
+:slightly_frowning_face: | 1
+:crown: | 1
+:fish: | 1
+:evergreen_tree: | 1
+:bread: | 1
+:svee: | 1
+:watermelon: | 1
+:spheal: | 1
+:blobkiss: | 1
+
