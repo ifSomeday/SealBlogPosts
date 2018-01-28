@@ -53,14 +53,14 @@ Instead, we see the moving and eloquent single message from Too_Much_Cheeze, "he
 
 Plotting the Messages Sent vs the Grade Level of the sender, we see:
 
-![nothing](../master/reading_level_resources/chart1.png "Chart 1")
+![nothing](../master/reading_level_resources/Chart1.png "Chart 1")
 
 Nothing really. The only real thing of interest is that taking a look at the person with the most messages, we see that quality, in fact, is not over quantity. That person, of course, is Potato Farmer.
 
 *However*, if we look at only the users that have sent less than 5000 messages, we see:
 
 
-![nothing](../master/reading_level_resources/chart2.png "Chart 2")
+![nothing](../master/reading_level_resources/Chart2.png "Chart 2")
 
 ...still nothing.
 
