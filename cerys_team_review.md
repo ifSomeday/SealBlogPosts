@@ -8,6 +8,7 @@ First off, you got elite gamer Luke in the middle lane. Look, here he is [smashi
 In the 1 role you have known weeb Yumi, an ld2l veteran who is known for having a hero pool the size of something very small I’m blanking on small bodies of water here. However, he has really stepped it up, and if you look at his recent rd2l match history, you will see that he has added at least 2 more heroes to his repertoire.
 
 In the 3 role you have another ld2l gamer boy in Charkhil. Chark is a Doom connoisseur. Not native to the 3 role, Chark jumped right into it and proved his mettle in the big leagues. This man is unstoppable, and was a key component in the squad’s unheard of success.
+
 Their 4 is Old School RuneScape legend and reputable immortal gamer Noah. Noah is the undebatable best 4 gamer in rd2l, known for his ability to do whatever he wants and make it work. Noah also was an early supporter of my position 4 ember spirit and 5 Dragon Knight, so you know his brain is absolutely massive. 
 
 Last, but certainly not least, we have the Captain and back bone of the team, Cerys Dota. In addition to crafting an impeccable line up of players, her position 5 playing leaves nothing to be desired. Cerys is proof that not all of ld2l is a mistake (just most of it), and managed to not grief Yumi in lane, something that is difficult given his goonery. 
